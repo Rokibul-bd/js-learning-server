@@ -6,5 +6,13 @@
         "imgUrl": "https://i.postimg.cc/SXBYw1jy/js.png",
         "price": "12000",
         "duration": "40"
+    },
+    {
+        "id": "2",
+        "name": "React Js",
+        "body": "React (sometimes spelled React.js or ReactJS) is one of the most popular JavaScript libraries to develop powerful, interactive web applications.",
+        "imgUrl": "https://i.postimg.cc/zf0zPQR7/React-js.png",
+        "price": "13000",
+        "duration": "50"
     }
 ]
