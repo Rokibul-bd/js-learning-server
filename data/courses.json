@@ -14,5 +14,21 @@
         "imgUrl": "https://i.postimg.cc/zf0zPQR7/React-js.png",
         "price": "13000",
         "duration": "50"
+    },
+    {
+        "id": "3",
+        "name": "Node Js",
+        "body": "It's easy to send and synchronize the data between server-side and client-side coding. Because of using the same language Javascript on both sides your source code will be cleaner and more consistent. You will be using the same naming convention, the same tools, and the same best practices.",
+        "imgUrl": "https://i.postimg.cc/C5mM96tS/node-js.png",
+        "price": "12000",
+        "duration": "40"
+    },
+    {
+        "id": "4",
+        "name": "Redux",
+        "body": " If you're building React applications, you're likely sharing some kind of data between React components. When the application scales and sharing that data gets more complex, it's time to use a state-management library. Redux is the most commonly used state-management library with React.",
+        "imgUrl": "https://i.postimg.cc/FRh7qcRb/redux.jpg",
+        "price": "6000",
+        "duration": "30"
     }
 ]
