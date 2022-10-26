@@ -30,5 +30,21 @@
         "imgUrl": "https://i.postimg.cc/FRh7qcRb/redux.jpg",
         "price": "6000",
         "duration": "30"
+    },
+    {
+        "id": "5",
+        "name": "Vue Js",
+        "body": "Vue's traditional separation of concerns into HTML, CSS, and JS makes it easier even for beginner frontend developers to learn how to create Web applications. HTML templates are also familiar to most Web designers, and thus improve collaboration between developers and designers",
+        "imgUrl": "https://i.postimg.cc/mDMWQ6R8/vue.png",
+        "price": "12000",
+        "duration": "40"
+    },
+    {
+        "id": "6",
+        "name": "Angular",
+        "body": "As a web developer, you'll need to learn how to use new frameworks on a regular basis. AngularJS is a full-featured framework that is incredibly popular among developers. For single-page applications, the AngularJS framework creates rich interactive features for a real-time experience.",
+        "imgUrl": "https://i.postimg.cc/W3fqkzNM/angular.png ",
+        "price": "12000",
+        "duration": "40"
     }
 ]
