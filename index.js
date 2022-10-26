@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/courses', (req, res) => {
-    res.send(data)
+    res.send(courses)
 })
 
 // Dynamic route by Id
